@@ -1,0 +1,28 @@
+{
+  "frecuencia_muestreo_hz": 1000.0,
+  "duracion_s": 6.0,
+  "semilla_ruido": 2026,
+  "rms_entrada": 1.0125692959826593,
+  "rms_salida": {
+    "Pasa bajos Butterworth": 0.7189818781042503,
+    "Pasa altos Chebyshev I": 0.4903996244598605,
+    "Pasa bandas FIR Blackman": 0.5048754826527518
+  },
+  "ganancia_teorica_db": {
+    "Pasa bajos Butterworth": {
+      "18": -0.0014344626660027285,
+      "72": -38.281300088365455,
+      "145": -77.65557222921188
+    },
+    "Pasa altos Chebyshev I": {
+      "18": -80.07245579371117,
+      "72": -6.665283237311071,
+      "145": -0.07348154197207005
+    },
+    "Pasa bandas FIR Blackman": {
+      "18": -93.90588859596633,
+      "72": -0.0001467518076491685,
+      "145": -103.25883229475316
+    }
+  }
+}
